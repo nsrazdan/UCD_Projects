@@ -1,0 +1,32 @@
+v2.0 raw
+#Test input file name: set1_targeted_read.txt
+#Memory file name: seq_mem.txt
+104
+105
+107
+107
+114
+115
+117
+117
+124
+125
+127
+127
+134
+135
+137
+137
+144
+145
+147
+147
+154
+155
+157
+157
+0
+0
+#Final correct count: 24
+#Final Hit Counter: 18
+#Final Miss Counter: 6

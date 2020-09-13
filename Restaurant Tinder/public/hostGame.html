@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Host a Game</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/hostGame.css">
+    <link rel="stylesheet" href="./css/game.css">    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+  </head>
+  
+  <body>
+    
+    <header id = "header">
+      <h1>Host a Game</h1>
+    </header>
+    <main>
+      <div id="hostGameControls">
+        <div id = "searchControls">
+          <div id="locationContainer">
+            <span id="locationLabel">Location:</span>
+            <input type="text" id="locationSearchField">
+          </div>
+          <div id="keywordContainer">
+            <span id="keywordLabel">Keyword:</span>
+            <input type="text" id="keywordSearchField" autocomplete="off" list="categories">
+            <datalist id="categories">
+              <option value="Acai Bowls"/>
+              <option value="Afghan"/>
+              <option value="African"/>
+              <option value="New_American"/>
+              <option value="Trad_American"/>
+              <option value="Andalusian"/>
+              <option value="Arabian"/>
+              <option value="Argentine"/>
+              <option value="Armenian"/>
+              <option value="Asian Fusion"/>
+              <option value="Asturian"/>
+              <option value="Australian"/>
+              <option value="Austrian"/>
+              <option value="Backshop"/>
+              <option value="Bagels"/>
+              <option value="Baguettes"/>
+              <option value="Bakeries"/>
+              <option value="Bangladeshi"/>
+              <option value="BBQ"/>
+              <option value="Basque"/>
+              <option value="Bavarian"/>
+              <option value="Beer Garden"/>
+              <option value="Beer Hall"/>
+              <option value="Beer_and_Wine"/>
+              <option value="Beisl"/>
+              <option value="Belgian"/>
+              <option value="Bento"/>
+              <option value="Beverage_Store"/>
+              <option value="Bistros"/>
+              <option value="Black Sea"/>
+              <option value="Brasseries"/>
+              <option value="Brazilian"/>
+              <option value="Breakfast_Brunch"/>
+              <option value="Breweries"/>
+              <option value="British"/>
+              <option value="Bubble Tea"/>
+              <option value="Buffets"/>
+              <option value="Bulgarian"/>
+              <option value="Burgers"/>
+              <option value="Burmese"/>
+              <option value="Butcher"/>
+              <option value="Cafes"/>
+              <option value="Cafeteria"/>
+              <option value="Cajun/Creole"/>
+              <option value="Cambodian"/>
+              <option value="New Canadian"/>
+              <option value="Canteen"/>
+              <option value="Caribbean"/>
+              <option value="Catalan"/>
+              <option value="Cheesesteaks"/>
+              <option value="Chicken Shop"/>
+              <option value="Chicken_Wings"/>
+              <option value="Chilean"/>
+              <option value="Chimney Cakes"/>
+              <option value="Chinese"/>
+              <option value="Churros"/>
+              <option value="Coffee"/>
+              <option value="Coffee Roasteries"/>
+              <option value="Comfort Food"/>
+              <option value="Convenience Stores"/>
+              <option value="Creperies"/>
+              <option value="Cuban"/>
+              <option value="Cupcakes"/>
+              <option value="Curry Sausage"/>
+              <option value="Custom Cakes"/>
+              <option value="Cypriot"/>
+              <option value="Czech"/>
+              <option value="Czech Slovakian"/>
+              <option value="Danish"/>
+              <option value="Delicatessen"/>
+              <option value="Delis"/>
+              <option value="Desserts"/>
+              <option value="Diners"/>
+              <option value="Dinner Theater"/>
+              <option value="Distilleries"/>
+              <option value="Donuts"/>
+              <option value="Dumplings"/>
+              <option value="Eastern European"/>
+              <option value="Empanadas"/>
+              <option value="Ethical Grocery"/>
+              <option value="Ethiopian"/>
+              <option value="Farmers Market"/>
+              <option value="Fast Food"/>
+              <option value="Filipino"/>
+              <option value="Fischbroetchen"/>
+              <option value="Fish N Chips"/>
+              <option value="Fishmonger"/>
+              <option value="Flatbread"/>
+              <option value="Fondue"/>
+              <option value="Food Court"/>
+              <option value="Food Stands"/>
+              <option value="Food Trucks"/>
+              <option value="Freiduria"/>
+              <option value="French Southwest"/>
+              <option value="French"/>
+              <option value="Friterie"/>
+              <option value="Galician"/>
+              <option value="Game Meat"/>
+              <option value="Gastropubs"/>
+              <option value="Gelato"/>
+              <option value="Georgian"/>
+              <option value="German"/>
+              <option value="Giblets"/>
+              <option value="Gluten_Free"/>
+              <option value="Greek"/>
+              <option value="Grocery"/>
+              <option value="Guamanian"/>
+              <option value="Halal"/>
+              <option value="Hawaiian"/>
+              <option value="Honduran"/>
+              <option value="Honey"/>
+              <option value="Hot Dogs"/>
+              <option value="Hot Pot"/>
+              <option value="Hungarian"/>
+              <option value="Iberian"/>
+              <option value="Ice Cream"/>
+              <option value="Imported Food"/>
+              <option value="Indian"/>
+              <option value="Indonesian"/>
+              <option value="International"/>
+              <option value="Irish"/>
+              <option value="Israeli"/>
+              <option value="Italian"/>
+              <option value="Japanese Sweets"/>
+              <option value="Japanese"/>
+              <option value="Juice Bars"/>
+              <option value="Kebab"/>
+              <option value="Kombucha"/>
+              <option value="Korean"/>
+              <option value="Kosher"/>
+              <option value="Kurdish"/>
+              <option value="Laos"/>
+              <option value="Laotian"/>
+              <option value="Latin American"/>
+              <option value="Malaysian"/>
+              <option value="Meaderies"/>
+              <option value="Meatballs"/>
+              <option value="Mediterranean"/>
+              <option value="Mexican"/>
+              <option value="Middle Eastern"/>
+              <option value="Milk Bars"/>
+              <option value="Milkshake Bars"/>
+              <option value="Modern Australian"/>
+              <option value="Modern European"/>
+              <option value="Mongolian"/>
+              <option value="Moroccan"/>
+              <option value="Mulled Wine"/>
+              <option value="New Zealand"/>
+              <option value="Nicaraguan"/>
+              <option value="Night Food"/>
+              <option value="Nikkei"/>
+              <option value="Noodles"/>
+              <option value="Norcinerie"/>
+              <option value="Open Sandwiches"/>
+              <option value="Organic Stores"/>
+              <option value="Oriental"/>
+              <option value="Pakistani"/>
+              <option value="Pan Asian"/>
+              <option value="Panzerotti"/>
+              <option value="Parent Cafes"/>
+              <option value="Parma"/>
+              <option value="Cake Shop"/>
+              <option value="Persian"/>
+              <option value="Peruvian"/>
+              <option value="Piadina"/>
+              <option value="Pita"/>
+              <option value="Pizza"/>
+              <option value="Poke"/>
+              <option value="Polish"/>
+              <option value="Polynesian"/>
+              <option value="Portuguese"/>
+              <option value="Potatoes"/>
+              <option value="Poutineries"/>
+              <option value="Pretzels"/>
+              <option value="Pub Food"/>
+              <option value="Rice"/>
+              <option value="Romanian"/>
+              <option value="Rotisserie_Chicken"/>
+              <option value="Russian"/>
+              <option value="Salad"/>
+              <option value="Salumerie"/>
+              <option value="Sandwiches"/>
+              <option value="Scandinavian"/>
+              <option value="Schnitzel"/>
+              <option value="Scottish"/>
+              <option value="Seafood"/>
+              <option value="Serbo Croatian"/>
+              <option value="Shaved Ice"/>
+              <option value="Shaved Snow"/>
+              <option value="Signature Cuisine"/>
+              <option value="Singaporean"/>
+              <option value="Slovakian"/>
+              <option value="Smokehouse"/>
+              <option value="Somali"/>
+              <option value="Soul Food"/>
+              <option value="Soup"/>
+              <option value="Southern"/>
+              <option value="Spanish"/>
+              <option value="Specialty Food"/>
+              <option value="Sri Lankan"/>
+              <option value="Steakhouses"/>
+              <option value="Street Vendors"/>
+              <option value="Sushi"/>
+              <option value="Swabian"/>
+              <option value="Swedish"/>
+              <option value="Swiss Food"/>
+              <option value="Syrian"/>
+              <option value="Taiwanese"/>
+              <option value="Tapas"/>
+              <option value="Tea Rooms"/>
+              <option value="Tex-Mex"/>
+              <option value="Thai"/>
+              <option value="Torshi"/>
+              <option value="Tortillas"/>
+              <option value="Trattorie"/>
+              <option value="Turkish"/>
+              <option value="Ukrainian"/>
+              <option value="Uzbek"/>
+              <option value="Vegan"/>
+              <option value="Vegetarian"/>
+              <option value="Vietnamese"/>
+              <option value="Waffles"/>
+              <option value="Water Stores"/>
+              <option value="Wok"/>
+              <option value="Wraps"/>
+              <option value="Zapiekanka"/>
+            </datalist>
+          </div>
+          <h2 class="btn" id="btnKeyword">Add Keyword</h2>
+        </div>
+        <div id = "keywordsParent">
+          <h2 id = "keywordsHeading">Selected Keywords</h2>
+          <table id="keywordsTable">
+          </table>
+        </div>
+        <div id = "inviteParent">
+          <p id = "btnInvite" class = "btn">Invite Players</p>
+          <div id = "inviteLinkParent">
+            <p>Share this code with participants:&nbsp;<span class = "inviteCode">null</span>, or share this link:</p>
+            <h2 id = "inviteLink">https://rambunctious-fluoridated-card.glitch.me/game.html?gameid=<span class = "inviteCode">null</span></h2>
+            <p>Once all other players have joined, click:</p>
+            <p id = "btnStart" class = "btn">Start Game!</p> 
+          </div>
+        </div>
+      </div>
+        <div id = "sessionParent" class="hideSession">
+          <p id="roundMessage">Round: <span id="roundNum">1</span></p>
+          <div id = "waitingDiv">
+            <h1 id = "waitingMessage">Waiting for game to start...</h1>
+          </div>
+          <img id = "btnReject" class = "controls" src = "https://cdn.glitch.com/ef2314a2-a051-4892-b42c-7e360646e72c%2FrejectButton.svg?v=1590657277558">
+          <div id = "restaurantCard">
+            <div id = "restaurantImg"></div>
+            <ul id = "restaurantInfo">
+              <li id = "restaurantName"></li>
+              <li id = "restaurantCost"></li>
+              <li id = "restaurantType"></li>
+              <li id = "restaurantRating"></li>
+              <li id = "restaurantAddress"></li>
+              <li id = "btnReviews"><a id="reviewsLink" href="#" target="_blank">Reviews</a></li>
+            </ul>
+          </div>
+          <img id = "btnHeart" class = "controls" src = "https://cdn.glitch.com/ef2314a2-a051-4892-b42c-7e360646e72c%2FheartButton.svg?v=1590657198331">
+        </div>
+    </main>
+ 
+    <footer>
+      <script src="./js/global.js"></script>
+      <script src="./socket.io/socket.io.js"></script>
+      <script src="./js/hostGame.js"></script>
+    </footer>
+  
+  </body>
+</html>

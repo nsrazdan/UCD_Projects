@@ -1,0 +1,56 @@
+v2.0 raw
+#Test input file name: set0_targeted_write.txt
+#Memory file name: seq_mem.txt
+5
+6
+7
+8
+9
+a
+b
+c
+d
+e
+f
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+1a
+1b
+1c
+105
+106
+108
+108
+109
+10a
+10c
+10c
+10d
+10e
+110
+110
+111
+112
+114
+114
+115
+116
+118
+118
+119
+11a
+11c
+11c
+0
+0
+#Final correct count: 24
+#Final Hit Counter: 36
+#Final Miss Counter: 12

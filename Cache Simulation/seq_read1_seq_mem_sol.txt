@@ -1,0 +1,32 @@
+v2.0 raw
+#Test input file name: seq_read1.txt
+#Memory file name: seq_mem.txt
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+10a
+10b
+10c
+10d
+10e
+10f
+110
+111
+112
+113
+114
+115
+116
+117
+0
+0
+#Final correct count: 24
+#Final Hit Counter: 18
+#Final Miss Counter: 6

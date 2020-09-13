@@ -1,0 +1,97 @@
+/*-----Session Styles-----*/
+#waitingDiv {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(255,255,255,.87);
+}
+
+.hideDiv {
+  display: none !important;
+}
+
+#waitingMessage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;  
+}
+
+#sessionParent {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 800px;
+}
+
+#restaurantCard {
+  margin: 0 auto;
+  background-color: #fff;
+  width: 50%;
+  min-height: 60vh;
+}
+
+#restaurantImg {
+  background-image: url(../images/inputSeamCarvingPrague.jpg);
+  background-repeat: no-repeat;
+	background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 500px;
+  max-height: 40vh;
+  display: block;
+}
+
+#restaurantInfo {
+  padding: 5%;
+}
+
+#restaurantInfo li {
+  padding: 2%;
+}
+
+#restaurantName {
+  font-weight: 1000;
+  font-size: 1.5rem;
+}
+
+#restaurantCost {
+  font-weight: 1000;
+}
+
+#btnReviews {
+  margin-left: 2%;
+}
+
+.btn {
+  display: inline-block;
+  margin: 2% auto;
+  padding: 1%;
+  border: solid 1px #000;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 900;
+  text-align: center;
+}
+
+.controls {
+  width: 15%;
+  max-width: 150px;
+  cursor: pointer;
+  padding: 2%;
+}
+
+#roundMessage {
+  position: fixed;
+  top: 4%;
+  text-align: center;
+}
+
+.showMessage {
+  display: block !important;
+}

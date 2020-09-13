@@ -1,0 +1,25 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "body-parser": "^1.19.0",
+    "sqlite3": "^4.2.0",
+    "form-data": "^3.0.0",
+    "socket.io": "^2.3.0",
+    "yelp-fusion": "^3.0.0",
+    "xmlhttprequest": "^1.8.0",
+    "axios": "^0.19.2"
+  },
+  "engines": {
+    "node": "8"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}

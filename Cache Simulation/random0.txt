@@ -1,0 +1,99 @@
+v2.0 raw
+82420 #read addr 36
+407fd #write value 0xfd to addr 7
+41ec2 #write value 0xc2 to addr 30
+806f9 #read addr 6
+818dd #read addr 24
+82ce4 #read addr 44
+42e75 #write value 0x75 to addr 46
+8140f #read addr 20
+80104 #read addr 1
+42b6e #write value 0x6e to addr 43
+42e0e #write value 0xe to addr 46
+81cfd #read addr 28
+81676 #read addr 22
+81d94 #read addr 29
+81a33 #read addr 26
+82897 #read addr 40
+82faa #read addr 47
+42061 #write value 0x61 to addr 32
+412ff #write value 0xff to addr 18
+42511 #write value 0x11 to addr 37
+40fce #write value 0xce to addr 15
+42a58 #write value 0x58 to addr 42
+423bf #write value 0xbf to addr 35
+81c37 #read addr 28
+821c9 #read addr 33
+41f0f #write value 0xf to addr 31
+4029d #write value 0x9d to addr 2
+42957 #write value 0x57 to addr 41
+82074 #read addr 32
+80c76 #read addr 12
+420b0 #write value 0xb0 to addr 32
+41d89 #write value 0x89 to addr 29
+81842 #read addr 24
+81b1c #read addr 27
+41766 #write value 0x66 to addr 23
+41fb6 #write value 0xb6 to addr 31
+41600 #write value 0x0 to addr 22
+41d0e #write value 0xe to addr 29
+8285a #read addr 40
+80582 #read addr 5
+82b24 #read addr 43
+801e7 #read addr 1
+8117f #read addr 17
+4075e #write value 0x5e to addr 7
+41223 #write value 0x23 to addr 18
+80a82 #read addr 10
+82a8b #read addr 42
+41da4 #write value 0xa4 to addr 29
+41e3a #write value 0x3a to addr 30
+813c5 #read addr 19
+41a60 #write value 0x60 to addr 26
+40681 #write value 0x81 to addr 6
+826dd #read addr 38
+80e09 #read addr 14
+40912 #write value 0x12 to addr 9
+81cda #read addr 28
+828e6 #read addr 40
+8210f #read addr 33
+42ba4 #write value 0xa4 to addr 43
+40398 #write value 0x98 to addr 3
+80d18 #read addr 13
+40427 #write value 0x27 to addr 4
+41351 #write value 0x51 to addr 19
+42481 #write value 0x81 to addr 36
+80013 #read addr 0
+824eb #read addr 36
+82d13 #read addr 45
+40cb1 #write value 0xb1 to addr 12
+80ddd #read addr 13
+81f35 #read addr 31
+412ff #write value 0xff to addr 18
+814cd #read addr 20
+40150 #write value 0x50 to addr 1
+81445 #read addr 20
+41b6d #write value 0x6d to addr 27
+42b31 #write value 0x31 to addr 43
+423b0 #write value 0xb0 to addr 35
+42278 #write value 0x78 to addr 34
+82e14 #read addr 46
+80856 #read addr 8
+8226d #read addr 34
+41582 #write value 0x82 to addr 21
+415ae #write value 0xae to addr 21
+81278 #read addr 18
+40835 #write value 0x35 to addr 8
+402d0 #write value 0xd0 to addr 2
+8184b #read addr 24
+8153a #read addr 21
+40472 #write value 0x72 to addr 4
+811ba #read addr 17
+4243a #write value 0x3a to addr 36
+41137 #write value 0x37 to addr 17
+81206 #read addr 18
+805d3 #read addr 5
+80260 #read addr 2
+825d7 #read addr 37
+0 #do nothing
+100000 #complete testing and do nothing

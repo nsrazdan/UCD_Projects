@@ -1,0 +1,11 @@
+/*-----joinGame Styles-----*/
+.btn {
+  width: 25%;
+  margin: 2% auto;
+  padding: 10px;
+  border: solid 2px #000;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+}

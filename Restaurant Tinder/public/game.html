@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Restaurant Tinder</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/game.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+  </head>
+  
+  <body>
+    
+    <main>
+     <div id = "waitingDiv">
+        <h1 id = "waitingMessage">Waiting for game to start...</h1>
+      </div>
+      <div id = "sessionParent">
+        <p id="roundMessage">Round: <span id="roundNum">1</span></p>
+        <img id = "btnReject" class = "controls" src = "https://cdn.glitch.com/ef2314a2-a051-4892-b42c-7e360646e72c%2FrejectButton.svg?v=1590657277558">
+        <div id = "restaurantCard">
+          <div id = "restaurantImg"></div>
+          <ul id = "restaurantInfo">
+            <li id = "restaurantName"></li>
+            <li id = "restaurantCost"></li>
+            <li id = "restaurantType"></li>
+            <li id = "restaurantRating"></li>
+            <li id = "restaurantAddress"></li>
+            <li id = "btnReviews" class = "btn"><a id="reviewsLink" href="#" target="_blank">Reviews</a></li>
+          </ul>
+        </div>
+        <img id = "btnHeart" class = "controls" src = "https://cdn.glitch.com/ef2314a2-a051-4892-b42c-7e360646e72c%2FheartButton.svg?v=1590657198331">
+      </div>
+    </main>
+ 
+    <footer>
+      <script src="./js/global.js"></script>
+      <script src="./socket.io/socket.io.js"></script>
+      <script src="./js/game.js"></script>
+    </footer>
+  
+  </body>
+</html>

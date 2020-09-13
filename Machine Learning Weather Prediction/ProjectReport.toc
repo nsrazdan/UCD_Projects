@@ -1,0 +1,58 @@
+\contentsline {section}{\numberline {1}Part A}{3}
+\contentsline {subsection}{\numberline {1.1}Vincent Boc's Poster}{3}
+\contentsline {subsubsection}{\numberline {1.1.1}Professor's Credentials}{3}
+\contentsline {subsubsection}{\numberline {1.1.2}Poster's Method}{4}
+\contentsline {subsubsection}{\numberline {1.1.3}Improving through Confidence Intervals}{4}
+\contentsline {subsection}{\numberline {1.2}Nikhil Razdan's Poster}{5}
+\contentsline {subsubsection}{\numberline {1.2.1}Overview}{5}
+\contentsline {subsubsection}{\numberline {1.2.2}Methodology}{5}
+\contentsline {subsubsection}{\numberline {1.2.3}P-value}{6}
+\contentsline {subsubsection}{\numberline {1.2.4}Problems with the P-Value}{6}
+\contentsline {subsubsection}{\numberline {1.2.5}Confidence Intervals}{6}
+\contentsline {subsection}{\numberline {1.3}Derek Li's Poster}{7}
+\contentsline {subsubsection}{\numberline {1.3.1}Introduction}{7}
+\contentsline {subsubsection}{\numberline {1.3.2}Usage of P-values}{7}
+\contentsline {section}{\numberline {2}Part B}{9}
+\contentsline {subsection}{\numberline {2.1}Disclaimer: ATemp}{9}
+\contentsline {subsection}{\numberline {2.2}The Goal}{9}
+\contentsline {subsection}{\numberline {2.3}The Criteria for a Good Model}{9}
+\contentsline {subsection}{\numberline {2.4}Predicting Temperature}{9}
+\contentsline {subsubsection}{\numberline {2.4.1}What Influences Temperature?}{9}
+\contentsline {subsubsection}{\numberline {2.4.2}Building the Model for Temperature}{12}
+\contentsline {subsubsection}{\numberline {2.4.3}Finding the Optimal Value of k}{12}
+\contentsline {subsubsection}{\numberline {2.4.4}The Fallacy of R-squared Values}{18}
+\contentsline {subsubsection}{\numberline {2.4.5}Best Temperature Model: Th Final Verdict}{19}
+\contentsline {subsection}{\numberline {2.5}Predicting Atmospheric Temperature (ATemp)}{20}
+\contentsline {subsubsection}{\numberline {2.5.1}What Influences Atmospheric Temperature?}{20}
+\contentsline {subsubsection}{\numberline {2.5.2}An "Alright" Model}{21}
+\contentsline {subsubsection}{\numberline {2.5.3}Improving Our "Alright" Model}{22}
+\contentsline {subsubsection}{\numberline {2.5.4}"Improving" Our Previous Improvement?}{23}
+\contentsline {subsubsection}{\numberline {2.5.5}Best Atmospheric Temperature Model: The Final Verdict}{25}
+\contentsline {subsection}{\numberline {2.6}Predicting Weathersit}{26}
+\contentsline {subsubsection}{\numberline {2.6.1}Weathersit Overview}{26}
+\contentsline {subsubsection}{\numberline {2.6.2}Influencing Factors}{26}
+\contentsline {subsubsection}{\numberline {2.6.3}Comparing Models}{29}
+\contentsline {subsubsection}{\numberline {2.6.4}The Best Model}{30}
+\contentsline {subsubsection}{\numberline {2.6.5}Predicting Rain}{32}
+\contentsline {subsubsection}{\numberline {2.6.6}Conclusion}{32}
+\contentsline {subsection}{\numberline {2.7}Predicting Humidity}{34}
+\contentsline {subsubsection}{\numberline {2.7.1}The Pattern of Humidity}{34}
+\contentsline {subsubsection}{\numberline {2.7.2}Factors That Affect Humidity}{36}
+\contentsline {subsubsection}{\numberline {2.7.3}Creating the model}{36}
+\contentsline {subsubsection}{\numberline {2.7.4}Improving the model}{37}
+\contentsline {subsubsection}{\numberline {2.7.5}Concluding Thoughts}{40}
+\contentsline {subsection}{\numberline {2.8}Predicting Wind Speed}{41}
+\contentsline {subsubsection}{\numberline {2.8.1}Factors Affecting Wind Speed}{41}
+\contentsline {subsubsection}{\numberline {2.8.2}Creating the model}{41}
+\contentsline {subsubsection}{\numberline {2.8.3}Comparing the effects of Temperature and Atmospheric Temperature}{41}
+\contentsline {subsubsection}{\numberline {2.8.4}Improving the model}{42}
+\contentsline {subsubsection}{\numberline {2.8.5}Adjusting Recentness}{44}
+\contentsline {subsubsection}{\numberline {2.8.6}Concluding Thoughts}{45}
+\contentsline {section}{\numberline {3}Group Members and Their Roles}{46}
+\contentsline {section}{\numberline {A}tempModel.R}{47}
+\contentsline {section}{\numberline {B}atempModel.R}{48}
+\contentsline {section}{\numberline {C}season.R}{52}
+\contentsline {section}{\numberline {D}humidity.R}{52}
+\contentsline {section}{\numberline {E}windspeed.R}{53}
+\contentsline {section}{\numberline {F}weathersit.R}{54}
+\contentsline {section}{\numberline {G}Important Picture}{59}

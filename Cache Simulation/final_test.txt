@@ -1,0 +1,147 @@
+v2.0 raw
+80882 #read addr 8
+83fe6 #read addr 63
+4306b #write value 0x6b to addr 48
+83e0e #read addr 62
+43701 #write value 0x1 to addr 55
+42275 #write value 0x75 to addr 34
+8280f #read addr 40
+80304 #read addr 3
+41bd8 #write value 0xd8 to addr 27
+84371 #read addr 67
+43f77 #write value 0x77 to addr 63
+41d70 #write value 0x70 to addr 29
+4250b #write value 0xb to addr 37
+44733 #write value 0x33 to addr 71
+8253d #read addr 37
+440d8 #write value 0xd8 to addr 64
+82691 #read addr 38
+440c9 #write value 0xc9 to addr 64
+83d7c #read addr 61
+43558 #write value 0x58 to addr 53
+446bf #write value 0xbf to addr 70
+83837 #read addr 56
+842c9 #read addr 66
+43e0f #write value 0xf to addr 62
+4059d #write value 0x9d to addr 5
+41556 #write value 0x56 to addr 21
+80166 #read addr 1
+833b0 #read addr 51
+43a89 #write value 0x89 to addr 58
+83142 #read addr 49
+8361c #read addr 54
+42e66 #write value 0x66 to addr 46
+43eb6 #write value 0xb6 to addr 62
+42c00 #write value 0x0 to addr 44
+43a0e #write value 0xe to addr 58
+8165c #read addr 22
+84682 #read addr 70
+8092a #read addr 9
+83907 #read addr 57
+41f89 #write value 0x89 to addr 31
+817b0 #read addr 23
+40855 #write value 0x55 to addr 8
+82056 #read addr 32
+425e8 #write value 0xe8 to addr 37
+43ff2 #write value 0xf2 to addr 63
+8039f #read addr 3
+42bd7 #write value 0xd7 to addr 43
+82137 #read addr 33
+4416b #write value 0x6b to addr 65
+40273 #write value 0x73 to addr 2
+8324a #read addr 50
+814e4 #read addr 20
+44570 #write value 0x70 to addr 69
+41c0f #write value 0xf to addr 28
+429da #write value 0xda to addr 41
+82640 #read addr 38
+8069c #read addr 6
+8099e #read addr 9
+414d5 #write value 0xd5 to addr 20
+41004 #write value 0x4 to addr 16
+81beb #read addr 27
+84113 #read addr 65
+419b1 #write value 0xb1 to addr 25
+81add #read addr 26
+83f35 #read addr 63
+425ff #write value 0xff to addr 37
+829cd #read addr 41
+40250 #write value 0x50 to addr 2
+82945 #read addr 41
+4366d #write value 0x6d to addr 54
+40cc2 #write value 0xc2 to addr 12
+444f8 #write value 0xf8 to addr 68
+80814 #read addr 8
+81156 #read addr 17
+8446d #read addr 68
+42a82 #write value 0x82 to addr 42
+42bae #write value 0xae to addr 43
+82578 #read addr 37
+41135 #write value 0x35 to addr 17
+405d0 #write value 0xd0 to addr 5
+8304b #read addr 48
+82b3a #read addr 43
+40972 #write value 0x72 to addr 9
+822ba #read addr 34
+4443a #write value 0x3a to addr 68
+42337 #write value 0x37 to addr 35
+82506 #read addr 37
+80bd3 #read addr 11
+80560 #read addr 5
+83552 #read addr 53
+83955 #read addr 57
+81434 #read addr 20
+43096 #write value 0x96 to addr 48
+43da1 #write value 0xa1 to addr 61
+81aa2 #read addr 26
+80305 #read addr 3
+428e6 #write value 0xe6 to addr 40
+428cc #write value 0xcc to addr 40
+808a2 #read addr 8
+40e80 #write value 0x80 to addr 14
+845f0 #read addr 69
+4215d #write value 0x5d to addr 33
+82765 #read addr 39
+82e29 #read addr 46
+40be5 #write value 0xe5 to addr 11
+82b74 #read addr 43
+42715 #write value 0x15 to addr 39
+417a2 #write value 0xa2 to addr 23
+41fab #write value 0xab to addr 31
+8452f #read addr 69
+81c0a #read addr 28
+83325 #read addr 51
+44624 #write value 0x24 to addr 70
+80205 #read addr 2
+42dfc #write value 0xfc to addr 45
+41333 #write value 0x33 to addr 19
+40958 #write value 0x58 to addr 9
+81348 #read addr 19
+42736 #write value 0x36 to addr 39
+41069 #write value 0x69 to addr 16
+84510 #read addr 69
+44669 #write value 0x69 to addr 70
+826dd #read addr 38
+8067e #read addr 6
+408e4 #write value 0xe4 to addr 8
+44680 #write value 0x80 to addr 70
+444e8 #write value 0xe8 to addr 68
+832ad #read addr 50
+821f8 #read addr 33
+83509 #read addr 53
+82d46 #read addr 45
+81184 #read addr 17
+432cd #write value 0xcd to addr 50
+80b77 #read addr 11
+4005a #write value 0x5a to addr 0
+440e0 #write value 0xe0 to addr 64
+81ea0 #read addr 30
+43d73 #write value 0x73 to addr 61
+42b8c #write value 0x8c to addr 43
+80624 #read addr 6
+41468 #write value 0x68 to addr 20
+42699 #write value 0x99 to addr 38
+415ed #write value 0xed to addr 21
+80fc1 #read addr 15
+0 #do nothing
+100000 #complete testing and do nothing

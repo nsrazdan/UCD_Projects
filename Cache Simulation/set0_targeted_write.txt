@@ -1,0 +1,51 @@
+v2.0 raw
+40005 #write value 0x5 to addr 0 
+40106 #write value 0x6 to addr 1 
+40307 #write value 0x7 to addr 3 
+40308 #write value 0x8 to addr 3 
+41009 #write value 0x9 to addr 16 
+4110a #write value 0xa to addr 17 
+4130b #write value 0xb to addr 19 
+4130c #write value 0xc to addr 19 
+4200d #write value 0xd to addr 32 
+4210e #write value 0xe to addr 33 
+4230f #write value 0xf to addr 35 
+42310 #write value 0x10 to addr 35 
+43011 #write value 0x11 to addr 48 
+43112 #write value 0x12 to addr 49 
+43313 #write value 0x13 to addr 51 
+43314 #write value 0x14 to addr 51 
+44015 #write value 0x15 to addr 64 
+44116 #write value 0x16 to addr 65 
+44317 #write value 0x17 to addr 67 
+44318 #write value 0x18 to addr 67 
+45019 #write value 0x19 to addr 80 
+4511a #write value 0x1a to addr 81 
+4531b #write value 0x1b to addr 83 
+4531c #write value 0x1c to addr 83 
+80000
+80100
+80300
+80300
+81000
+81100
+81300
+81300
+82000
+82100
+82300
+82300
+83000
+83100
+83300
+83300
+84000
+84100
+84300
+84300
+85000
+85100
+85300
+85300
+0
+100000

@@ -1,0 +1,27 @@
+v2.0 raw
+80000 #read addr 0
+80100 #read addr 1
+80200 #read addr 2
+80300 #read addr 3
+80400 #read addr 4
+80500 #read addr 5
+80600 #read addr 6
+80700 #read addr 7
+80800 #read addr 8
+80900 #read addr 9
+80a00 #read addr 10
+80b00 #read addr 11
+80c00 #read addr 12
+80d00 #read addr 13
+80e00 #read addr 14
+80f00 #read addr 15
+81000 #read addr 16
+81100 #read addr 17
+81200 #read addr 18
+81300 #read addr 19
+81400 #read addr 20
+81500 #read addr 21
+81600 #read addr 22
+81700 #read addr 23
+0 #do nothing
+100000 #complete testing and do nothing

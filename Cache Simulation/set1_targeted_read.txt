@@ -1,0 +1,27 @@
+v2.0 raw
+80400 #read addr 4
+80500 #read addr 5
+80700 #read addr 7
+80700 #read addr 7
+81400 #read addr 20
+81500 #read addr 21
+81700 #read addr 23
+81700 #read addr 23
+82400 #read addr 36
+82500 #read addr 37
+82700 #read addr 39
+82700 #read addr 39
+83400 #read addr 52
+83500 #read addr 53
+83700 #read addr 55
+83700 #read addr 55
+84400 #read addr 68
+84500 #read addr 69
+84700 #read addr 71
+84700 #read addr 71
+85400 #read addr 84
+85500 #read addr 85
+85700 #read addr 87
+85700 #read addr 87
+0
+100000

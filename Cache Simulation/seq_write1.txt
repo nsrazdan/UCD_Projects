@@ -1,0 +1,63 @@
+v2.0 raw
+40005 #write value 0x5 to addr 0 
+40106 #write value 0x6 to addr 1 
+40207 #write value 0x7 to addr 2 
+40308 #write value 0x8 to addr 3 
+40409 #write value 0x9 to addr 4 
+4050a #write value 0xa to addr 5 
+4060b #write value 0xb to addr 6 
+4070c #write value 0xc to addr 7 
+4080d #write value 0xd to addr 8 
+4090e #write value 0xe to addr 9 
+40a0f #write value 0xf to addr 10 
+40b10 #write value 0x10 to addr 11 
+40c11 #write value 0x11 to addr 12 
+40d12 #write value 0x12 to addr 13 
+40e13 #write value 0x13 to addr 14 
+40f14 #write value 0x14 to addr 15 
+41015 #write value 0x15 to addr 16 
+41116 #write value 0x16 to addr 17 
+41217 #write value 0x17 to addr 18 
+41318 #write value 0x18 to addr 19 
+41419 #write value 0x19 to addr 20 
+4151a #write value 0x1a to addr 21 
+4161b #write value 0x1b to addr 22 
+4171c #write value 0x1c to addr 23 
+80000 #read addr 0
+81000 #read addr 16
+81000 #read addr 16
+82000 #read addr 32
+82000 #read addr 32
+83000 #read addr 48
+80400 #read addr 4
+81400 #read addr 20
+81400 #read addr 20
+82400 #read addr 36
+82400 #read addr 36
+83400 #read addr 52
+80000 #read addr 0
+80100 #read addr 1
+80200 #read addr 2
+80300 #read addr 3
+80400 #read addr 4
+80500 #read addr 5
+80600 #read addr 6
+80700 #read addr 7
+80800 #read addr 8
+80900 #read addr 9
+80a00 #read addr 10
+80b00 #read addr 11
+80c00 #read addr 12
+80d00 #read addr 13
+80e00 #read addr 14
+80f00 #read addr 15
+81000 #read addr 16
+81100 #read addr 17
+81200 #read addr 18
+81300 #read addr 19
+81400 #read addr 20
+81500 #read addr 21
+81600 #read addr 22
+81700 #read addr 23
+0
+100000
