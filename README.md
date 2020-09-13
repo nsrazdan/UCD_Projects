@@ -5,9 +5,13 @@ Each of the sub-repositories are individual, standalone projects created during 
 Machine Learning:
 - If you are interested in my skills in Machine Learning, in effective communication, and in software engineering, I would recommend viewing the Machine Learning Weather Prediction repository.
 - This project features a 50+ page report on the development, evaluation, and analysis of different ML models for predicting the weather.
+
 Computer Vision:
-- If you are interested in my skills with computer vision and working with big data, I would recommend viewing SIFT Image Classification and Context-Sensitive Image Resizing projects.
+- If you are interested in my skills with computer vision and working with big data, I would recommend viewing SIFT Image Classification and Context-Sensitive Image 
+
+Resizing projects.
 - These projects work with images to either create a visual vocabulary and classify objects, or to dynamically resize them, respectively.
+
 Web Programming:
 - If you are interested in my skills with web programming and software engineering, I would recommend viewing Restaurant Tinder.
 - In this project, myself and my classmates created a website to aid a group of people to decide on a restaurant to eat at.
