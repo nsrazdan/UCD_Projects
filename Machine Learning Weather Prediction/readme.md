@@ -1,1 +1,2 @@
-https://github.com/nsrazdan/ECS-132-HW/tree/master/ECS132TermProject
+# Overview
+Please Read the ProjectReport.pdf for the project findings.
